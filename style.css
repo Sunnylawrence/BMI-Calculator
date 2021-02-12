@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+
+    background: linear-gradient(to top left, #e229e9, #8b67ee);
+
+    clip-path: polygon(0 0, 100% 0, 100% 300px, 0 100%);
+}
+
+/* alert */
+#output{
+    display: none;
+}
